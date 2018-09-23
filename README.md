@@ -9,3 +9,9 @@ To run application locally please clone this repo and execute the following comm
 ```sh
 npm install && npm start
 ```
+
+To run flow use the following command:
+
+```sh
+npm run flow
+```
